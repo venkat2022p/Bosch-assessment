@@ -1,0 +1,19 @@
+#sidebar {
+    min-width: 150px;
+    color:black;
+    box-shadow: 1px 2px 12px #ddd;
+    overflow: hidden;
+    position: absolute;
+    z-index: 999;
+    min-height: 89%;
+    margin-top: -0rem;
+    cursor: pointer;
+    border: 1px solid grey;
+  }
+  a{
+    font-size: 20px;
+    padding-left: 0px;
+   
+  }
+ 
+ 
